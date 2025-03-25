@@ -46,7 +46,7 @@ This project is a multiplayer version of the classic Snake game, implemented in 
 - **D**: Move right
 
 ### Player 2
-- **Arrow keys**: Move using arrow keys
+- **Arrow keys**: Move using the arrow keys
 
 ## License
 
